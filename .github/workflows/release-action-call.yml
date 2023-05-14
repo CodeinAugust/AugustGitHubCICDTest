@@ -14,9 +14,9 @@ jobs:
       #You can specify the solution name here
       solution_name: MicrosoftxGitHubRoadShowSample
       #Update your values here
-      BUILD_ENVIRONMENT_URL: orgd678701b.crm5.dynamics.com
-      PRODUCTION_ENVIRONMENT_URL: buildaugust.crm.dynamics.com
-      CLIENT_ID: 8f71dbf3-fb52-4270-a680-663f8b13c4d5
+      BUILD_ENVIRONMENT_URL: buildaugust.crm.dynamics.com
+      PRODUCTION_ENVIRONMENT_URL: orgd678701b.crm5.dynamics.com
+      CLIENT_ID: c168def5-e396-4126-b5c3-bcfb33128dc7
       TENANT_ID: 72f988bf-86f1-41af-91ab-2d7cd011db47   
     secrets:
       envSecret: ${{ secrets.PowerPlatformSPN2 }}
