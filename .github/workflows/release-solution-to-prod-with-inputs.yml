@@ -11,7 +11,7 @@ on:
       solution_name:
         description: 'The solution name.'
         type: string
-        default: ALMLab  
+        default: MicrosoftxGitHubRoadShowSample  
       solution_shipping_folder:
         description: 'folder name for staging the exported solution *do not change*'        
         type: string
@@ -31,7 +31,7 @@ on:
       BUILD_ENVIRONMENT_URL:
         description: 'Build environment url.'
         type: string
-        required: true      
+        required: true
       PRODUCTION_ENVIRONMENT_URL: 
         description: 'Production environment url.'
         type: string
