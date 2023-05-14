@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>new_test20230512please_ec0d2</Name>
+  <AppVersion>2023-05-12T14:51:15Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.23052.16.0</CreatedByClientVersion>
+  <MinClientVersion>3.23052.16.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.23052.16","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20230512T145115Z-3.23052.16.0"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(54, 176, 75, 1)</BackgroundColor>
+  <DisplayName>TEST20230512PLEASE</DisplayName>
+  <Description>Initial Version</Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"87b01b99-17bb-48df-96ae-21ee0c4de2a0":{"id":"/providers/microsoft.powerapps/apis/shared_new-5ftestapi-5fe65590ffd934e009","displayName":"TESTAPI","iconUri":"https://az787822.vo.msecnd.net/defaulticons/api-dedicated.png","dataSources":["TESTAPI2"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["sendMessage"],"customApiLogicalName":"new_5Ftestapi","isCustomApiSolutionAware":true}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[{"logicalname":"new_5Ftestapi","componenttype":372,"componenttypeplatformname":"connector"}]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/new_test20230512please_ec0d2_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/new_test20230512please_ec0d2_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
