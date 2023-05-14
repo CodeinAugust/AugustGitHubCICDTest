@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <connectorid>93768074-9c50-49de-8b37-9f25c08d1b26</connectorid>
+  <description>Azure OpenAI를 이용한 Azure 봇 서비스 API</description>
+  <displayname>TESTAPI</displayname>
+  <iconbrandcolor>#007ee5</iconbrandcolor>
+  <name>new_5Ftestapi</name>
+  <connectortype>1</connectortype>
+  <openapidefinition>/Connector/new_5Ftestapi_openapidefinition.json</openapidefinition>
+  <policytemplateinstances>/Connector/new_5Ftestapi_policytemplateinstances.json</policytemplateinstances>
+  <iconblob>/Connector/new_5Ftestapi_iconblob.Png</iconblob>
+</Connector>
